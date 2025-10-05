@@ -2,7 +2,7 @@ import { NextResponse } from 'next/server';
 
 // ⬇️ ЗАМЕНИ эти адреса на свои!
 const REACT_ORIGIN  = 'https://tatar.clientdemo.live/';     // твой React (десктоп)
-const FRAMER_ORIGIN = 'https://tender-colors-228871.framer.app';    // твой Framer (мобайл)
+const FRAMER_ORIGIN = 'https://intuitive-closet-510363.framer.app';    // твой Framer (мобайл)
 
 // Простая проверка на мобильный User-Agent
 const MOBILE_RE = /(Mobile|Android|iPhone|iPod|IEMobile|Opera Mini)/i;
